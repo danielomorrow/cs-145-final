@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>design</title>
+  <link rel="stylesheet" href="css/design.css" type="text/css">
+</head>
+
+<body id="design">
+
+     <img src="images/space-cube.png" alt="space cube logo" class="logo">
+  
+     <ul class="unordered-list">
+      <li class="list-item"><a href="index.html">Home</a></li>
+      <li class="list-item"><a href="career.html">Career</a></li>
+      <li class="list-item"><a href="design.html">design</a></li>
+      <li class="list-item"><a href="https://www.youtube.com/watch?v=Odekn9XiPI8">contact</a></li>
+      <li class="list-item"><a href="https://www.youtube.com/watch?v=1jtjSHDmHHs&t=420s">who we are</a></li>
+    </ul>
+  
+  <h1> Our designs</h1> 
+  
+ <div class="container">
+     
+     <a href="https://www.amazon.com/Ocean-Spray-Jellied-Cranberry-Sauce/dp/B00XI1605W/ref=sr_1_8_a_it?ie=UTF8&qid=1542225265&sr=8-8&keywords=cranberry+jelly"><button>completed projects</button></a>
+     
+  <img src="images/design.jpg" alt= 'completed projects' class="picture">
+       
+  <div class="white-space"></div>
+  
+     <a href="https://www.amazon.com/Ocean-Spray-Jellied-Cranberry-Sauce/dp/B00XI1605W/ref=sr_1_8_a_it?ie=UTF8&qid=1542225265&sr=8-8&keywords=cranberry+jelly"><button>projects in progress</button></a>
+     
+     <img src="images/design_progress.jpg" alt="completed projects" class="picture">
+
+  
+</div>
+	
+	<div class="clear"> </div>
+	
+  <footer> 
+	
+	<div class="clear"></div>
+  <p class ="footParagraph"> Located at 123 rad dude road. <br> 
+  @ Space Cube Designs All Rights Reserved. <p> 
+  
+  </footer> 
+
+ </body>
+
+    </html>
